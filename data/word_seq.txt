@@ -1,0 +1,416 @@
+abalanzar	0	bautizar	0	desafiar	0	entrever	0	interceptar	0	prevenir	0	
+sacar	0	abanderar	0	beber	0	desafinar	0	entrevistar	0	interconectar	0	prever	0	saciar	0
+abandonar	-1	bendecir	0	desaforar	0	entristecer	0	interesar	0	primar	0	sacrificar	0
+abaratar	0	beneficiar	1	desagradar	0	entrometer	0	interferir	0	priorizar	0	sacudir	0
+abarcar	0	besar	0	desagregar	0	entronizar	0	intermediar	0	privar	0	saldar	0
+abastecer	0	bitar	0	desahogar	0	enturbiar	0	internacionalizar	0	privatizar	0	salir	0
+abatir	0	blandir	0	desahuciar	0	entusiasmar	1	internalizar	0	privilegiar	0	salpicar	0
+abdicar	0	blanquear	0	desalentar	-1	enumerar	0	internar	0	probar	0	saltar	0
+ablandar	0	blindar	0	desalinear	-1	enunciar	0	interpelar	0	proceder	0	saludar	0
+abocar	0	bloquear	-1	desalinizar	0	envalentonar	0	interponer	0	procesar	0	salvaguardar	0
+abogar	0	blumar	0	desalojar	0	envasar	0	interpretar	0	proclamar	0	salvar	1
+abolir	0	boicotear	-1	desanclar	0	envejecer	0	interrogar	0	procrear	0	sanar	1
+abonar	0	bombardear	0	desangrar	0	envenenar	0	interrumpir	0	procurar	0	sancionar	-1
+abordar	0	bombear	0	desanimar	0	enviar	0	intervenir	0	prodigar	0	sanear	1
+aborrecer	0	bonificar	0	desaparecer	-1	envidiar	0	intimidar	-1	producir	0	sangrar	0
+abortar	0	bordar	0	desaprobar	0	enviudar	0	intoxicar	0	proferir	0	saquear	0
+abrazar	0	bordear	0	desaprovechar	0	envolver	0	introducir	0	profesar	0	satisfacer	0
+abreviar	0	borrar	0	desarmar	0	equilibrar	0	intuir	0	profesionalizar	0	saturar	0
+abrigar	0	botar	0	desarrollar	0	equipar	0	inundar	0	profundizar	0	secar	0
+abrir	0	bregar	0	desarticular	0	equiparar	0	inutilizar	0	programar	0	secuenciar	0
+abrochar	0	brillar	0	desatar	0	equivaler	0	invadir	-1	progresar	0	secuestrar	0
+abrumar	0	brindar	0	desatender	-1	equivocar	0	invalidar	0	prohibir	-1	secundar	0
+absolver	0	bromear	0	desautorizar	0	erguir	0	inventar	0	proliferar	0	sedar	0
+absorber	0	brotar	0	desayunar	0	erigir	0	invertir	1	prolongar	0	seducir	0
+abstener	0	bucear	0	desbancar	0	erogar	0	investigar	0	promediar	0	segmentar	0
+abuchear	0	burlar	0	desbandar	0	erosionar	-1	investir	0	prometer	0	segregar	0
+abultar	0	buscar	0	desbaratar	0	erradicar	0	invisibilizar	0	promocionar	0	seguir	0
+abundar	0	cabalgar	0	desbloquear	0	errar	-1	invitar	0	promover	0	seleccionar	0
+aburrir	0	caber	0	desbocar	0	esbozar	0	invocar	0	promulgar	0	sellar	0
+abusar	-1	cachar	0	desbordar	0	escabullir	0	involucrar	0	pronosticar	0	sembrar	0
+acabar	0	caducar	0	descabezar	0	escalar	0	inyectar	0	pronunciar	0	sensibilizar	0
+acallar	0	caer	-1	descalificar	-1	escandalizar	0	ir	0	propagar	0	sentar	0
+acampar	0	cagar	0	descansar	0	escanear	0	ironizar	0	propender	0	sentenciar	0
+acaparar	0	calamar	0	descarbonizar	0	escapar	0	irradiar	0	propiciar	0	sentir	0
+acariciar	0	calar	0	descargar	0	escarbar	0	irritar	0	propinar	0	señalar	0
+acarrear	0	calcular	0	descarrilar	0	escasear	0	irrogar	0	proponer	0	señalizar	0
+acatar	0	caldear	0	descartar	0	escatimar	0	irrumpir	0	proporcionar	0	separar	0
+acceder	0	calefaccionar	0	descender	0	escenificar	0	izar	0	propugnar	0	sepultar	0
+accidentar	0	calentar	0	descentralizar	0	escindir	0	jactar	0	propulsar	0	ser	0
+accionar	0	calibrar	0	descifrar	0	esclarecer	0	jalar	0	prorrogar	0	serpentear	0
+acechar	0	calificar	0	desclasificar	0	escoger	0	jerarquizar	0	proscribir	0	servir	0
+acelerar	1	callar	0	descolgar	0	escolar	0	joder	0	proseguir	0	sesgar	0
+acentuar	0	calmar	0	descolocar	0	escoltar	0	jubilar	0	prospectar	0	sesionar	0
+aceptar	0	calzar	0	descomponer	0	esconder	0	judicializar	0	prosperar	0	significar	0
+acercar	0	cambiar	0	descomprimir	1	escribir	0	jugar	0	prostituir	0	silenciar	0
+acertar	0	caminar	0	desconcentrar	0	escriturar	0	juntar	0	protagonizar	0	simbolizar	0
+achacar	0	campear	0	desconcertar	0	escrutar	0	juramentar	0	proteger	1	simpatizar	0
+achicar	0	camuflar	0	desconectar	0	escuchar	0	jurar	0	protestar	-1	simplificar	0
+acicatear	0	canalizar	0	desconfiar	-1	escudar	0	justificar	0	protocolizar	0	simular	0
+aclamar	0	cancelar	-1	descongelar	0	escudriñar	0	juzgar	0	proveer	0	sincerar	0
+aclarar	0	canjear	0	descongestionar	0	esculpir	0	labocar	0	provenir	0	sincronizar	0
+acoger	0	cansar	0	desconocer	-1	escupir	0	laborar	0	provisionar	0	sindicar	0
+acometer	0	cantar	0	descontaminar	0	escurrir	0	labrar	0	provocar	0	singularizar	0
+acomodar	0	capacitar	0	descontar	0	esforzar	0	ladrar	0	proyectar	0	sintetizar	0
+acompañar	0	capear	0	descontrolar	0	esfumar	0	lamentar	-1	publicar	0	sintonizar	0
+acondicionar	0	capitalizar	0	describir	0	esgrimir	0	lamer	0	publicitar	0	sistematizar	0
+aconsejar	0	captar	0	descubrir	0	esmerar	0	languidecer	0	pudrir	0	sitiar	0
+acontecer	0	capturar	0	descuidar	-1	espantar	0	lanzar	0	pugnar	0	situar	0
+acopiar	0	caracterizar	0	desdecir	0	esparcir	0	largar	0	pujar	0	sobornar	0
+acoplar	0	carecer	-1	desdeñar	0	especializar	0	láser	0	pulir	0	sobrar	0
+acordar	0	cargar	0	desdibujar	0	especificar	0	lastimar	0	pulsar	0	sobrecargar	0
+acorralar	0	caricaturizar	0	desdramatizar	0	especular	0	lastrar	0	pulular	0	sobredimensionar	0
+acortar	0	carretear	0	desear	0	esperar	0	latir	0	pulverizar	0	sobreestimar	0
+acosar	0	casar	0	desechar	0	espetar	0	lavar	0	puntualizar	0	sobrellevar	0
+acostar	0	castigar	-1	desembarcar	0	espiar	0	leer	0	purgar	0	sobrepasar	0
+acostumbrar	0	catalizar	0	desembocar	0	esposar	0	legalizar	0	purificar	0	sobreponderar	0
+acotar	0	catalogar	0	desembolsar	0	esquiar	0	legar	0	quebrantar	-1	sobreponer	0
+acrecentar	0	catapultar	0	desempeñar	0	esquivar	0	legislar	0	quebrar	0	sobrerreaccionar	0
+acreditar	0	catar	0	desempolvar	0	estabilizar	0	legitimar	0	quedar	0	sobresalir	0
+acribillar	0	catastrar	0	desencadenar	0	establecer	0	lesionar	-1	quejar	-1	sobreseer	0
+activar	0	categorizar	0	desenmascarar	0	estacionar	0	levantar	1	quemar	0	sobrevalorar	0
+actualizar	0	causar	0	desenredar	0	estafar	0	liberalizar	0	querellar	0	sobrevenir	0
+actuar	0	cautelar	0	desentender	0	estallar	-1	liberar	0	querer	0	sobrevivir	0
+acuchillar	0	cautivar	0	desenterrar	0	estampar	0	librar	0	quintuplicar	0	sobrevolar	0
+acudir	0	cavar	0	desentrañar	0	estancar	-1	licenciar	0	quitar	0	socavar	-1
+acumular	0	cazar	0	desenvolver	0	estándar	0	licitar	0	racionalizar	0	sociabilizar	0
+acunar	0	cebar	0	desequilibrar	-1	estandarizar	0	licuar	0	racionar	0	socializar	0
+acuñar	0	ceder	0	desertar	0	estar	0	liderar	0	radicalizar	0	socorrer	0
+acusar	0	cegar	0	desesperar	0	estatizar	0	lidiar	0	radicar	0	sofisticar	0
+adaptar	0	cejar	0	desestabilizar	-1	esterilizar	0	ligar	0	ralentizar	-1	sofocar	0
+adecuar	0	celebrar	0	desestimar	0	estigmatizar	0	limar	0	ramificar	0	soler	0
+adelantar	0	cenar	0	desfigurar	0	estilar	0	limitar	0	raptar	0	solicitar	0
+adelgazar	0	censar	0	desfilar	0	estimar	0	limpiar	0	rascar	0	solidarizar	0
+adentrar	0	censurar	0	desfondar	0	estimular	1	linchar	0	rasgar	0	solidificar	0
+adeudar	-1	centralizar	0	desgarrar	0	estipular	0	liquidar	0	rasguñar	0	sollozar	0
+adherir	0	centrar	0	desgastar	0	estirar	0	listar	0	raspar	0	soltar	0
+adicionar	0	ceñir	0	desglosar	0	estorbar	0	litigar	0	rastrear	0	solucionar	1
+adiestrar	0	cercar	0	deshacer	0	estrangular	-1	llagar	0	ratificar	0	solventar	0
+adivinar	0	cercenar	0	deshidratar	0	estrechar	0	llamar	0	rayar	0	someter	0
+adjudicar	0	cernir	0	deshonrar	0	estrellar	0	llegar	0	razonar	0	sonar	0
+adjuntar	0	cerrar	0	deshumanizar	0	estremecer	0	llenar	0	reabrir	0	sondear	0
+administrar	0	certificar	0	designar	0	estrenar	0	llevar	0	reaccionar	0	soñar	0
+admirar	0	cesar	0	desilusionar	0	estresar	0	llorar	-1	reacomodar	0	sopesar	0
+admitir	0	chantajear	0	desincentivar	-1	estribar	0	lloriquear	0	reactivar	1	soplar	0
+adoctrinar	0	charlar	0	desinfectar	0	estropear	0	llover	0	readecuar	0	soportar	0
+adolecer	0	chatear	0	desinflar	0	estructurar	0	localizar	0	reafirmar	0	sorprender	0
+adoptar	0	chequear	0	desinformar	0	estrujar	0	lograr	0	reagendar	0	sortear	0
+adorar	0	chillar	0	desintegrar	0	estudiar	0	luchar	-1	reagrupar	0	soslayar	0
+adormecer	0	chocar	0	desistir	0	eternizar	0	lucir	0	reajustar	0	sospechar	0
+adornar	0	chupar	0	deslegitimar	0	etiquetar	0	lucrar	0	realizar	0	sostener	0
+adosar	0	cicatrizar	0	desligar	0	evacuar	0	machacar	0	realzar	0	soterrar	0
+adquirir	0	cifrar	0	deslindar	0	evadir	0	madurar	0	reanimar	1	star	0
+adscribir	0	cimentar	0	deslizar	0	evaluar	0	magíster	0	reanudar	0	suavizar	0
+aducir	0	circular	0	deslumbrar	0	evangelizar	0	malentender	0	reaparecer	0	subarrendar	0
+adueñar	0	circundar	0	desmantelar	-1	evaporar	0	malgastar	0	rearmar	0	subastar	0
+adujar	0	circunscribir	0	desmarcar	0	evidenciar	0	malinterpretar	0	rearticular	0	subcontratar	0
+adular	0	citar	0	desmayar	0	evitar	0	maltratar	-1	reasignar	0	subdividir	0
+adulterar	0	clamar	0	desmejorar	0	evocar	0	malversar	0	reasumir	0	subestimar	0
+advertir	-1	clarificar	0	desmembrar	0	evolucionar	0	manchar	0	reavivar	0	subir	1
+afanar	0	clasificar	0	desmentir	0	exacerbar	-1	mancillar	0	rebajar	0	sublimar	0
+afectar	0	claudicar	0	desmenuzar	0	exagerar	0	mandar	0	rebalsar	0	subordinar	0
+afeitar	0	clausurar	0	desmerecer	0	exaltar	0	manejar	0	rebasar	0	subponderar	0
+aferrar	0	clavar	0	desmitificar	0	examinar	0	maniatar	0	rebatir	0	subrayar	0
+afianzar	1	clonar	0	desmontar	0	exasperar	0	manifestar	0	rebautizar	0	subrogar	0
+aficionar	0	coaccionar	0	desmoronar	-1	excavar	0	maniobrar	0	rebelar	0	subsanar	0
+afilar	0	coadyuvar	0	desmovilizar	0	exceder	0	manipular	0	rebosar	0	subscribir	0
+afiliar	0	coartar	0	desnaturalizar	0	exceptuar	0	mantener	0	rebotar	0	subsidiar	0
+afinar	0	cobijar	0	desnudar	0	excitar	0	manufacturar	0	rebrotar	0	subsistir	0
+afirmar	0	cobrar	-1	desobedecer	0	exclamar	0	mapear	0	rebuscar	0	subvalorar	0
+afligir	0	cocer	0	desocupar	0	excluir	0	maquillar	0	recabar	0	subvencionar	0
+aflojar	0	cocinar	0	desordenar	0	exculpar	0	maravillar	0	recaer	0	subvertir	0
+aflorar	0	codear	0	desorientar	0	excusar	0	marcar	0	recalar	0	subyacer	0
+aforar	0	codificar	0	despachar	0	exhalar	0	marchar	0	recalcar	0	suceder	0
+afrontar	0	coexistir	0	desparramar	0	exhibir	0	marchitar	0	recalcular	0	sucumbir	0
+agachar	0	cofinanciar	0	despedir	-1	exhortar	0	marear	0	recalendarizar	0	sudar	0
+agarrar	0	coger	0	despegar	0	exhumar	0	marginar	0	recalificar	0	sufragar	0
+agasajar	0	cohabitar	0	despejar	1	exigir	0	maridar	0	recapacitar	0	sufrir	-1
+agilizar	0	cohesionar	0	despenalizar	0	exiliar	0	masacrar	0	recapitalizar	1	sugerir	0
+agitar	0	coincidir	0	desperdiciar	0	eximir	0	masificar	0	recargar	0	suicidar	0
+aglomerar	0	cojear	0	desperdigar	0	existir	0	masticar	0	recaudar	0	sujetar	0
+aglutinar	0	colaborar	0	despertar	0	exonerar	0	matar	-1	recepcionar	0	sumar	0
+agobiar	-1	colapsar	-1	despilfarrar	-1	expandir	1	materializar	0	recetar	0	sumergir	0
+agolpar	0	colar	0	desplazar	0	expedir	0	matizar	0	rechazar	0	suministrar	0
+agonizar	0	coleccionar	0	desplegar	0	expender	0	matricular	0	recibir	0	sumir	-1
+agotar	0	colegir	0	desplomar	-1	experimentar	0	maximizar	0	reciclar	0	supeditar	0
+agradar	0	colgar	0	despojar	0	expirar	0	mear	0	recitar	0	superar	1
+agradecer	1	colindar	0	despreciar	0	explayar	0	mecer	0	reclamar	-1	superponer	0
+agrandar	0	colisionar	0	desprender	0	explicar	0	mediar	0	recluir	0	supervigilar	0
+agravar	-1	colmar	0	desprestigiar	0	explicitar	0	medir	0	reclutar	0	supervisar	0
+agraviar	0	colocar	0	desproporcionar	0	explorar	0	meditar	0	recobrar	0	suplantar	0
+agredir	-1	colonizar	0	despuntar	0	explotar	0	mejorar	1	recoger	0	suplementar	0
+agregar	0	colorear	0	desregular	0	exponer	0	mellar	0	recolectar	0	suplicar	0
+agrupar	0	coludir	-1	destacar	0	exportar	0	memorizar	0	recomendar	0	suplir	0
+aguantar	0	comandar	0	destapar	0	expresar	0	mencionar	0	recomenzar	0	suponer	0
+aguar	0	combatir	-1	desteñir	0	exprimir	0	menguar	0	recomer	0	suprimir	0
+aguardar	0	combinar	0	desterrar	0	expropiar	0	menoscabar	0	recompensar	0	surcar	0
+agudizar	-1	comentar	0	destilar	0	expulsar	-1	menospreciar	0	recomponer	0	surgir	0
+ahogar	0	comenzar	0	destinar	0	extender	0	mentir	-1	recomprar	0	surtir	0
+ahondar	0	comer	0	destituir	0	exteriorizar	0	merecer	0	reconciliar	0	suscitar	0
+ahorcar	0	comercializar	0	destrabar	1	exterminar	0	mermar	0	reconducir	0	suscribir	0
+ahorrar	0	comerciar	0	destronar	0	externalizar	0	merodear	0	reconectar	0	suspender	-1
+ahuyentar	0	cometer	-1	destrozar	0	extinguir	0	meter	0	reconfigurar	0	sustanciar	0
+aislar	0	comisionar	0	destruir	-1	extirpar	0	mezclar	0	reconfortar	0	sustentar	0
+ajustar	0	compadecer	0	desvalorizar	0	extorsionar	0	migrar	0	reconocer	0	sustituir	0
+ajusticiar	0	comparar	0	desvanecer	0	extractar	0	militar	0	reconquistar	0	sustraer	-1
+alabar	1	comparecer	0	desvelar	0	extraditar	0	militarizar	0	reconsiderar	0	susurrar	0
+alardear	0	compartir	0	desvestir	0	extraer	0	mimar	0	reconstituir	0	tachar	0
+alargar	0	compatibilizar	0	desviar	0	extralimitar	0	minar	-1	reconstruir	1	talar	0
+alarmar	-1	compensar	0	desvincular	-1	extrañar	0	minimizar	0	reconvertir	0	tallar	0
+albergar	0	competer	0	desvirtuar	-1	extrapolar	0	mirar	0	recopilar	0	tambalear	-1
+alcanzar	0	competir	0	detallar	0	extraviar	0	mitigar	0	recordar	0	tantear	0
+alegar	0	compilar	0	detectar	0	extremar	0	modelar	0	recorrer	0	tapar	0
+alegrar	1	complacer	0	detener	-1	exudar	0	moderar	0	recortar	-1	tapizar	0
+alejar	0	complejizar	0	detentar	0	fabricar	0	modernizar	0	recrear	0	tararear	0
+alentar	0	complementar	0	deteriorar	-1	facilitar	0	modificar	0	recriminar	0	tardar	0
+alertar	-1	completar	0	determinar	0	facturar	0	modular	0	recrudecer	-1	tasar	0
+aliar	0	complicar	-1	detestar	0	facultar	0	mojar	0	rectificar	0	tatuar	0
+alienar	0	complotar	0	detonar	0	faenar	0	moldear	0	recubrir	0	teclear	0
+aligerar	0	componer	0	devaluar	0	fallar	0	moler	0	recular	0	tecnificar	0
+alimentar	0	comportar	0	devastar	-1	fallecer	-1	molestar	0	recuperar	1	tejer	0
+alinear	0	comprar	0	develar	0	fallir	0	monetizar	0	recurrir	0	telar	0
+alistar	0	comprender	0	devengar	0	falsear	0	monitorear	0	recusar	0	telefonear	0
+alivianar	0	comprimir	0	devenir	0	falsificar	0	monopolizar	0	redactar	0	televisar	0
+aliviar	1	comprobar	0	devolver	0	faltar	-1	montar	0	redefinir	0	temblar	0
+allanar	0	comprometer	0	devorar	0	familiarizar	0	morder	0	redescubrir	0	temer	-1
+allegar	0	computar	0	diagnosticar	0	fantasear	0	morigerar	0	redestinar	0	temperar	0
+almacenar	0	comulgar	0	dialogar	0	farrear	0	morir	-1	redimir	0	templar	0
+almorzar	0	comunicar	0	dibujar	0	fascinar	0	mostrar	0	redireccionar	0	tender	0
+alojar	0	concebir	0	dictaminar	0	fastidiar	0	motejar	0	redirigir	0	tener	0
+alquilar	0	conceder	0	dictar	0	favorecer	1	motivar	1	rediseñar	0	tensar	0
+altamar	0	concentrar	0	diezmar	0	fechar	0	mover	0	redistribuir	0	tensionar	-1
+alterar	-1	conceptualizar	0	difamar	0	felicitar	1	movilizar	0	redituar	0	tentar	0
+alternar	0	concernir	0	diferenciar	0	feriar	0	mudar	0	redoblar	0	teñir	0
+alucinar	0	concertar	0	diferir	0	fertilizar	0	multar	-1	redondear	0	teorizar	0
+aludir	0	concesionar	0	dificultar	-1	festejar	1	multiplicar	0	reducir	-1	tergiversar	0
+alumbrar	0	concientizar	0	difuminar	0	fiar	0	murmurar	0	redundar	0	terminar	0
+alzar	0	conciliar	0	difundir	0	fichar	0	mutar	0	reeditar	0	testear	0
+amagar	0	concitar	0	digerir	0	fidelizar	0	mutilar	0	reelegir	0	testificar	0
+amainar	0	concluir	0	digitalizar	0	figurar	0	nacer	0	reembolsar	0	testimoniar	0
+amalgamar	0	concordar	0	digitar	0	fijar	0	nacionalizar	0	reemplazar	0	tildar	0
+amamantar	0	concretar	0	dignificar	0	filmar	0	nadar	0	reemprender	0	timbrar	0
+amanecer	0	conculcar	0	dilapidar	0	filtrar	0	narrar	0	reencantar	0	tipificar	0
+amar	0	concurrir	0	dilatar	0	finalizar	0	naturalizar	0	reencarnar	0	tirar	0
+amargar	0	concursar	0	dilucidar	0	financiar	0	naufragar	0	reencontrar	0	tiritar	0
+amarrar	0	condecir	0	diluir	0	fingir	0	navegar	0	reenfocar	0	titubear	0
+amasar	0	condecorar	0	dimensionar	0	finiquitar	0	necesitar	0	reenviar	0	titular	0
+ambicionar	0	condenar	-1	diminuir	0	firmar	0	negar	-1	reequilibrar	0	tocar	0
+ambientar	0	condensar	0	dimitir	0	fiscalizar	0	negociar	0	reescribir	0	tolerar	0
+amedrentar	-1	condicionar	0	dinamitar	0	flamear	0	neutralizar	0	reestablecer	0	tomar	0
+amenazar	-1	condonar	0	dinamizar	1	flanquear	0	nevar	0	reestructurar	0	tonificar	0
+amenizar	0	conducir	0	direccionar	0	flaquear	0	nidificar	0	reevaluar	0	topar	0
+ameritar	0	conectar	0	dirigir	0	flexibilizar	0	ningunear	0	reexaminar	0	torcer	0
+amilanar	0	confeccionar	0	dirimir	0	florecer	0	nivelar	0	referir	0	tornar	0
+aminorar	0	conferir	0	discernir	0	flotar	0	nombrar	0	refichar	0	torpedear	0
+amnistiar	0	confesar	0	disciplinar	0	fluctuar	0	nominar	0	refinanciar	0	torturar	0
+amoldar	0	confiar	1	discontinuar	0	fluir	0	normalizar	0	refinar	0	toser	0
+amonestar	0	configurar	0	discrepar	0	focalizar	0	normar	0	reflejar	0	totalizar	0
+amordazar	0	confinar	0	discriminar	0	fomentar	1	notar	0	reflexionar	0	trabajar	0
+amortiguar	0	confirmar	0	disculpar	0	fondear	0	notificar	0	reflotar	0	trabar	-1
+amortizar	0	confiscar	0	discurrir	0	forjar	0	nublar	0	reforestar	0	traducir	0
+amparar	0	confluir	0	discutir	0	formalizar	0	nutrir	0	reformalizar	0	traer	0
+ampliar	0	conformar	0	diseminar	0	formar	0	obedecer	0	reformar	0	traficar	0
+amplificar	0	confrontar	0	disentir	0	formular	0	objetar	0	reformular	0	tragar	0
+amputar	0	confundir	-1	diseñar	0	fortalecer	1	obligar	0	reforzar	0	traicionar	-1
+analizar	0	congelar	0	disfrazar	0	forzar	-1	obrar	0	refrendar	0	tramar	0
+anclar	0	congeniar	0	disfrutar	1	fotografiar	0	obsequiar	0	refrescar	0	tramitar	0
+andar	0	congestionar	0	disgustar	0	fracasar	-1	observar	0	refrigerar	0	tranquilizar	1
+anegar	0	congratular	0	disimular	0	fraccionar	0	obsesionar	0	refugiar	0	transar	0
+anestesiar	0	congregar	0	disipar	0	fracturar	0	obstaculizar	-1	refundar	0	transcender	0
+anexar	0	conjugar	0	disminuir	-1	fragmentar	0	obstruir	-1	refundir	0	transcribir	0
+angustiar	0	conjurar	0	disociar	0	fraguar	0	obtener	0	refutar	0	transcurrir	0
+anhelar	0	conllevar	0	disolver	0	frecuentar	0	obviar	0	regalar	0	transferir	0
+anidar	0	conmemorar	0	dispar	0	fregar	0	ocasionar	0	regar	0	transformar	0
+animar	0	conminar	0	disparar	-1	frenar	-1	ocultar	-1	regenerar	0	transgredir	-1
+aniquilar	0	conmocionar	0	dispensar	0	fructificar	0	ocupar	0	regir	0	transigir	0
+anochecer	0	conmover	0	dispersar	0	fruncir	0	ocurrir	0	registrar	0	transitar	0
+anotar	0	conmutar	0	disponer	0	frustrar	0	odiar	0	reglamentar	0	transmitir	0
+ansiar	0	connotar	0	disponibilizar	0	fugar	-1	ofender	0	regresar	0	transparentar	0
+anteceder	0	conocer	0	disputar	0	fumar	0	ofertar	0	regular	0	transpirar	0
+anteponer	0	conquistar	0	distanciar	0	fumigar	0	oficializar	0	regularizar	0	transportar	0
+anticipar	0	consagrar	0	distar	0	funcionar	0	oficiar	0	rehabilitar	0	trascender	0
+antojar	0	conseguir	0	distender	0	fundamentar	0	ofrecer	0	rehacer	0	trascurrir	0
+anular	0	consensuar	1	distinguir	0	fundar	0	ofuscar	0	rehuir	0	trasformar	0
+anunciar	0	consentir	0	distorsionar	0	fundir	0	oler	0	rehusar	0	trasgredir	0
+añadir	0	conservar	0	distraer	0	fungir	0	olfatear	0	reimpulsar	1	trasladar	0
+añorar	0	considerar	0	distribuir	0	fusilar	0	olvidar	-1	reinar	0	traslapar	0
+apabullar	0	consignar	0	disuadir	0	fusionar	0	omitir	0	reincidir	0	traslucir	0
+apaciguar	1	consistir	0	diversificar	0	fustigar	0	ondear	0	reincorporar	0	trasmitir	0
+apadrinar	0	consolar	0	divertir	0	galardonar	0	opacar	0	reingresar	0	trasparentar	0
+apagar	0	consolidar	0	dividir	-1	ganar	1	operar	0	reiniciar	0	traspasar	0
+apalancar	0	conspirar	-1	divisar	0	garantizar	1	opinar	0	reinscribir	0	trasplantar	0
+aparcar	0	constar	0	divorciar	0	gastar	0	oponer	-1	reinsertar	0	trastocar	0
+aparecer	0	constatar	0	divulgar	0	gatillar	0	oprimir	0	reinstalar	0	trasuntar	0
+aparejar	0	constituir	0	doblar	0	generalizar	0	optar	0	reinstaurar	0	tratar	0
+aparentar	0	constreñir	0	doblegar	0	generar	0	optimizar	1	reintegrar	0	trazar	0
+apartar	0	construir	0	doctorar	0	germinar	0	orar	0	reinterpretar	0	trepar	0
+apasionar	0	consultar	0	documentar	0	gestar	0	orbitar	0	reintroducir	0	trepidar	0
+apedrear	0	consumar	0	doler	-1	gesticular	0	ordenar	0	reinventar	0	triangular	0
+apelar	-1	consumir	0	domar	0	gestionar	0	ordeñar	0	reinvertir	1	tributar	0
+apenar	0	contabilizar	0	domesticar	0	girar	0	organizar	0	reiterar	0	triplicar	0
+apersonar	0	contactar	0	dominar	0	globalizar	0	orientar	0	reivindicar	0	triunfar	1
+apetecer	0	contagiar	-1	donar	0	glorificar	0	originar	0	rejuvenecer	0	trizar	0
+apilar	0	contaminar	-1	dormir	0	gobernar	0	orinar	0	relacionar	0	tropezar	0
+aplacar	0	contar	0	dosificar	0	golear	0	orquestar	0	relajar	0	trotar	0
+aplanar	0	contemplar	0	dotar	0	golpear	-1	osar	0	relanzar	0	truncar	0
+aplastar	0	contender	0	dramatizar	0	gozar	0	oscilar	0	relatar	0	tuitear	0
+aplaudir	1	contener	1	drenar	0	grabar	0	oscurecer	0	relativizar	0	tumbar	0
+aplazar	0	contentar	0	drogar	0	graduar	0	ostentar	0	releer	0	turnar	0
+aplicar	0	contestar	0	duchar	0	graficar	0	otorgar	0	relegar	0	ubicar	0
+apodar	0	contextualizar	0	dudar	0	gratificar	0	ovacionar	0	relevar	0	ufanar	0
+apoderar	0	continuar	0	duplicar	0	gravar	0	oxigenar	0	relicitar	0	ultimar	0
+aportar	1	contraatacar	0	durar	0	gravitar	0	pacificar	0	rellenar	0	ungir	0
+apostar	0	contradecir	0	echar	0	gritar	0	pactar	0	relocalizar	0	unificar	0
+apoyar	1	contraer	-1	eclipsar	0	guardar	0	padecer	0	relucir	0	uniformar	0
+apreciar	0	contrapesar	0	economizar	0	guiar	0	pagar	0	remar	0	unir	0
+aprehender	0	contraponer	0	edificar	0	gustar	0	palear	0	remarcar	0	universalizar	0
+apremiar	0	contrariar	0	editar	0	haber	0	paliar	0	rematar	0	untar	0
+aprender	0	contrarrestar	0	educar	0	habilitar	0	palidecer	0	remecer	0	urbanizar	0
+apresar	0	contrastar	0	efectuar	0	habitar	0	palpar	0	remediar	0	urdir	0
+aprestar	0	contratar	0	egresar	0	habituar	0	parafrasear	0	rememorar	0	urgir	0
+apresurar	0	contravenir	0	ejecutar	0	hablar	0	paralizar	-1	remitir	0	usar	0
+apretar	0	contribuir	1	ejecutoriar	0	hacer	0	parapetar	0	remodelar	0	usufructuar	0
+aprobar	0	controlar	0	ejemplificar	0	hackear	0	parar	0	remontar	0	usurpar	0
+aprontar	0	controvertir	0	ejercer	0	halagar	0	parchar	0	remover	0	utilizar	0
+apropiar	0	convalidar	0	ejercitar	0	hallar	0	parear	0	remplazar	0	vacar	0
+aprovechar	0	convencer	0	elaborar	0	hartar	0	parecer	0	remunerar	0	vaciar	0
+aproximar	0	convenir	0	electrificar	0	heredar	0	parir	0	renacer	0	vacilar	0
+apuntalar	0	converger	0	elegir	0	herir	-1	participar	0	rendir	0	vacunar	0
+apuntar	0	convergir	0	elevar	0	hervir	0	partir	0	renegar	0	vadear	0
+apuñalar	0	conversar	0	eliminar	-1	hilar	0	pasar	0	renegociar	0	vagar	0
+apurar	0	convertir	0	elogiar	1	hilvanar	0	pasear	0	renovar	1	valer	0
+aquejar	0	convidar	0	eludir	-1	hinchar	0	pastar	0	rentabilizar	0	validar	0
+aquietar	0	convivir	0	emanar	0	hipotecar	0	patear	0	rentar	0	valorar	0
+aquilatar	0	convocar	0	embarazar	0	hojear	0	patentar	0	renunciar	-1	valorizar	0
+arañar	0	convulsionar	0	embarcar	0	homenajear	0	patinar	0	reñir	0	vanagloriar	0
+arbitrar	0	cooperar	0	embargar	0	homogeneizar	0	patrocinar	0	reordenar	0	vapulear	0
+archivar	0	cooptar	0	embellecer	0	homologar	0	patrullar	0	reorganizar	0	variar	0
+arder	0	coordinar	0	embestir	0	honrar	0	pausar	0	reorientar	0	vaticinar	0
+arengar	0	copar	0	embocar	0	horadar	-1	pautear	0	repactar	0	velar	0
+argüir	0	copiar	0	embolsar	0	hornear	0	pavimentar	0	reparar	0	vencer	1
+argumentar	0	coquetear	0	emborrachar	0	horrorizar	0	pecar	0	repartir	0	vender	0
+armar	0	corear	0	emboscar	0	hospedar	0	pedalear	0	repasar	0	venerar	0
+armonizar	0	coronar	0	emerger	0	hospitalizar	0	pedir	0	repatriar	0	vengar	0
+arraigar	0	corregir	-1	emigrar	0	hostigar	0	pegar	0	repeler	0	venir	0
+arrancar	0	correlacionar	0	emitir	0	huir	0	peinar	0	repensar	0	ventilar	0
+arrasar	0	correr	0	emocionar	0	humanizar	0	pelar	0	repercutir	0	ver	0
+arrastrar	-1	corresponder	0	empacar	0	humedecer	0	pelear	-1	repetir	0	veranear	0
+arrebatar	0	corretear	0	empadronar	0	humillar	-1	peligrar	-1	replantar	0	verbalizar	0
+arreciar	0	corroborar	0	empalmar	0	hundir	-1	penalizar	-1	replantear	0	verificar	0
+arreglar	0	corroer	-1	empantanar	0	hurgar	0	penar	0	replegar	0	versar	0
+arremeter	0	corromper	0	empañar	-1	hurtar	0	pender	0	replicar	0	verter	0
+arrendar	0	cortar	0	empapar	0	husmear	0	penetrar	0	repoblar	0	vestir	0
+arrepentir	0	cortejar	0	empaquetar	0	idealizar	0	pensar	0	reponer	0	vetar	0
+arrestar	0	cosechar	0	emparejar	0	idear	0	pensionar	0	reportar	0	viabilizar	0
+arribar	0	coser	0	emparentar	0	identificar	0	percatar	0	reportear	0	viajar	0
+arriesgar	0	costar	0	empatar	0	ideologizar	0	percibir	0	reposar	0	vibrar	0
+arrimar	0	costear	0	empatizar	0	idolatrar	0	perder	-1	reposicionar	0	viciar	0
+arrinconar	0	costillar	0	empecinar	0	ignorar	0	perdonar	0	repostular	0	vigilar	0
+arrodillar	0	cotejar	0	empeñar	0	igualar	0	perdurar	0	reprender	0	vigorizar	1
+arrogar	0	cotizar	0	empeorar	-1	iluminar	0	perecer	0	representar	0	vincular	0
+arrojar	0	crear	1	empezar	0	ilusionar	0	peregrinar	0	reprimir	0	violar	-1
+arrollar	0	crecer	1	empinar	0	ilustrar	0	perfeccionar	0	reprobar	0	violentar	0
+arrugar	0	creer	0	emplazar	0	imaginar	0	perfilar	0	reprochar	-1	virar	0
+arruinar	-1	criar	0	emplear	0	imitar	0	perforar	0	reproducir	0	visar	0
+articular	0	criminalizar	0	empobrecer	-1	impactar	0	perjudicar	-1	reprogramar	0	visibilizar	0
+asalariar	0	crispar	0	empoderar	0	impar	0	permanecer	0	repudiar	0	visitar	0
+asaltar	0	cristalizar	0	emprender	0	impartir	0	permear	0	repuntar	1	vislumbrar	0
+asar	0	criticar	0	empujar	0	impedir	-1	permitir	0	requerir	0	visualizar	0
+ascender	0	crucificar	0	emular	0	imperar	0	pernoctar	0	requisar	0	vitorear	0
+asear	0	crujir	0	enajenar	0	impermeabilizar	0	perpetrar	-1	resaltar	0	vitrinear	0
+asediar	0	cruzar	0	enaltecer	0	implantar	0	perpetuar	0	resarcir	0	vivir	0
+asegurar	0	cuadrar	0	enamorar	0	implementar	0	perseguir	0	resbalar	0	vocear	0
+asemejar	0	cuadriplicar	0	enarbolar	0	implicar	0	perseverar	0	rescatar	0	vociferar	0
+asentar	0	cuadruplicar	0	encabezar	0	implorar	0	persistir	0	rescindir	0	volar	0
+asentir	0	cuajar	0	encadenar	0	imponer	0	personalizar	0	resentir	-1	volcar	0
+asesinar	-1	cuantificar	0	encajar	0	importar	0	personificar	0	reseñar	0	voltear	0
+asesorar	0	cubrir	0	encaminar	0	imposibilitar	0	persuadir	0	reservar	0	volver	0
+asestar	0	cuestionar	-1	encandilar	0	impregnar	0	pertenecer	0	resfriar	0	vomitar	0
+aseverar	0	cuidar	1	encantar	1	impresionar	0	perturbar	0	resguardar	1	votar	0
+asfixiar	-1	culminar	0	encañonar	0	imprimir	0	pesar	0	residir	0	vulnerar	-1
+asignar	0	culpar	-1	encapsular	0	improvisar	0	pescar	0	resignar	0	yacer	0
+asilar	0	cultivar	0	encaramar	0	impugnar	0	pesquisar	0	resignificar	0	zafar	0
+asimilar	0	cumplir	1	encarar	0	impulsar	1	picar	0	resistir	0	zambullir	0
+asir	0	cundir	0	encarcelar	0	imputar	0	picotear	0	resolver	0	zanjar	0
+asistir	0	curar	0	encarecer	0	inaugurar	0	pifiar	0	resonar	0	zarpar	0
+asociar	0	cursar	0	encargar	0	incautar	0	pillar	0	respaldar	1	zigzaguear	0
+asolar	0	custodiar	0	encarnar	0	incendiar	0	pilotar	0	respectar	0
+asomar	0	dañar	-1	encasillar	0	incentivar	1	pilotear	0	respetar	1
+asombrar	0	dar	0	encausar	0	incidir	0	pinchar	0	respirar	0
+aspirar	0	datar	0	encauzar	0	incinerar	0	pintar	0	responder	0
+asumir	0	deambular	0	encender	0	incitar	0	piratear	0	responsabilizar	0
+asustar	-1	debatir	0	encerrar	0	inclinar	0	pisar	0	resquebrajar	0
+atacar	-1	deber	0	enchufar	0	incluir	0	pisotear	0	restablecer	1
+atajar	0	debilitar	-1	encoger	0	incomodar	0	placer	0	restar	-1
+atañer	0	debutar	0	encomendar	0	incorporar	0	plagar	0	restaurar	1
+atar	0	decaer	-1	encontrar	0	incrementar	1	planear	0	restituir	0
+atascar	-1	decantar	0	encriptar	0	increpar	0	planificar	0	restringir	-1
+atemorizar	-1	decapitar	0	encuadrar	0	incriminar	0	plantar	0	resucitar	0
+atender	0	decepcionar	-1	encubrir	-1	incrustar	0	plantear	0	resultar	0
+atener	0	decidir	0	encuestar	0	incubar	0	plasmar	0	resumir	0
+atentar	-1	decir	0	encumbrar	0	inculcar	0	platear	0	resurgir	0
+atenuar	0	declamar	0	enderezar	1	inculpar	0	platicar	0	retar	0
+aterrar	0	declarar	0	endeudar	0	incumbir	0	plebiscitar	0	retardar	0
+aterrizar	0	declinar	0	endosar	0	incumplir	-1	plegar	0	retener	0
+aterrorizar	0	decodificar	0	endulzar	0	incurrir	0	poblar	0	retirar	0
+atesorar	0	decomisar	0	endurecer	-1	incursionar	0	podar	0	retocar	0
+atestiguar	0	deconstruir	0	enemistar	0	indagar	0	poder	0	retomar	0
+atiborrar	0	decorar	0	energizar	0	indemnizar	0	polarizar	-1	retorcer	0
+atinar	0	decrecer	0	enfatizar	0	independizar	0	polemizar	0	retornar	0
+atisbar	0	decretar	0	enfermar	0	indexar	0	polinizar	0	retractar	0
+atizar	-1	dedicar	0	enfilar	0	indicar	0	politizar	0	retraer	0
+atomizar	0	deducir	0	enfocar	0	indignar	0	pololear	0	retransmitir	0
+atormentar	0	defender	0	enfrascar	0	individualizar	0	ponderar	0	retrasar	0
+atracar	0	defenestrar	0	enfrentar	0	inducir	0	poner	0	retratar	0
+atraer	0	definir	0	enfriar	0	indultar	0	pontificar	0	retribuir	0
+atrapar	0	deformar	0	enfurecer	0	industrializar	0	popularizar	0	retroalimentar	0
+atrasar	0	defraudar	-1	enganchar	0	infectar	0	porfiar	0	retroceder	-1
+atravesar	0	degenerar	0	engañar	-1	inferir	0	portar	0	retrotraer	0
+atrever	0	degradar	0	engendrar	0	infiltrar	0	posar	0	retrucar	0
+atribuir	0	degustar	0	englobar	0	inflamar	0	poseer	0	retuitear	0
+atrincherar	0	dejar	0	engordar	0	inflar	0	posibilitar	0	retumbar	0
+atrofiar	0	delatar	0	engrandecer	0	infligir	-1	posicionar	0	reubicar	0
+atropellar	0	delegar	0	engrosar	0	influenciar	0	posponer	0	reunir	0
+auditar	0	deleitar	0	engullir	0	influir	0	postear	0	reutilizar	0
+augurar	0	deliberar	0	enjuiciar	0	informar	0	postergar	-1	revalidar	0
+aullar	0	delimitar	0	enlazar	0	infringir	-1	postular	0	revalorizar	1
+aumentar	1	delinear	0	enlodar	0	infundir	0	potenciar	1	revaluar	0
+aunar	0	delinquir	0	enloquecer	0	ingeniar	0	practicar	0	revelar	0
+auscultar	0	demandar	0	enmarcar	0	ingerir	0	precarizar	-1	revender	0
+ausentar	0	demarcar	0	enmascarar	0	ingresar	0	precaver	0	reventar	0
+auspiciar	0	demasiar	0	enmendar	0	inhabilitar	0	preceder	0	reverdecer	0
+autodefinir	0	democratizar	0	enmudecer	0	inhalar	0	preciar	0	reversar	0
+autogestionar	0	demoler	0	enojar	0	inhibir	0	precipitar	0	revertir	0
+automatizar	0	demonizar	0	enorgullecer	1	iniciar	0	precisar	0	revestir	0
+autorizar	0	demorar	-1	enquistar	0	injuriar	0	predecir	0	revisar	0
+autorregular	0	demostrar	0	enraizar	0	inmiscuir	0	predeterminar	0	revisitar	0
+auxiliar	0	denegar	0	enrarecer	0	inmolar	0	predicar	0	revistar	0
+avalar	0	denigrar	0	enredar	0	inmortalizar	0	predisponer	0	revitalizar	1
+avaluar	0	denominar	0	enrielar	0	inmovilizar	0	predominar	0	revivir	0
+avanzar	0	denostar	-1	enriquecer	0	inmunizar	0	prefabricar	0	revocar	0
+avasallar	0	denotar	0	enrolar	0	inmutar	0	preferir	0	revolotear	0
+avecinar	0	densificar	0	enrostrar	0	innovar	0	pregonar	0	revolucionar	0
+avenir	0	denunciar	-1	ensalzar	0	inquietar	0	preguntar	0	revolver	0
+aventajar	0	deparar	0	ensamblar	0	inquirir	0	prejuzgar	0	rezar	0
+aventurar	0	depender	0	ensanchar	0	inscribir	0	premiar	1	ridiculizar	0
+avergonzar	0	deplorar	0	ensañar	0	insertar	0	prender	0	rigidizar	0
+averiguar	0	deponer	0	ensayar	0	insinuar	0	preocupar	-1	rivalizar	0
+avisar	0	deportar	0	enseñar	0	insistir	0	prepagar	0	robar	-1
+avistar	0	depositar	0	enseñorear	0	inspeccionar	0	preparar	0	robustecer	1
+avivar	0	depreciar	0	ensombrecer	-1	inspirar	0	presagiar	0	rociar	0
+avizorar	0	deprimir	-1	ensuciar	-1	instalar	0	prescindir	0	rodar	0
+ayudar	1	depurar	0	entablar	0	instar	0	prescribir	0	rodear	0
+azotar	0	derivar	0	entender	0	instaurar	0	presenciar	0	rogar	0
+azuzar	0	derogar	0	enterar	0	instigar	0	presentar	0	romper	0
+bailar	0	derramar	0	enterrar	0	institucionalizar	0	presentir	0	roncar	0
+bajar	-1	derretir	0	entonar	0	instituir	0	preservar	0	rondar	0
+balancear	0	derribar	0	entorpecer	-1	instruir	0	presidencializar	0	rotar	0
+balear	0	derrocar	0	entrampar	0	instrumentalizar	0	presidir	0	rotular	0
+bañar	0	derrochar	0	entrañar	0	insultar	0	presionar	-1	rozar	0
+barajar	0	derrotar	0	entrar	0	integrar	0	prestar	0	rubricar	0
+barrer	0	derrumbar	-1	entrecruzar	0	intensificar	0	prestigiar	0	rugir	0
+bartender	0	desacelerar	-1	entregar	0	intentar	0	presumir	0	rumiar	0
+basar	0	desaconsejar	0	entrelazar	0	interactuar	0	presuponer	0	rumorear	0
+bastar	0	desacoplar	0	entremezclar	0	intercalar	0	presupuestar	0	saber	0
+batallar	0	desacreditar	-1	entrenar	0	intercambiar	0	pretender	0	saborear	0
+batir	0	desactivar	0	entretener	0	interceder	0	prevalecer	0	sabotear	0
